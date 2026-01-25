@@ -1,6 +1,9 @@
 # Fill-It: Smart Container Fullfillment Platform
 
 Full-stack ride-sharing solution with React Native mobile app and Spring Boot backend API.
+## 📸 Project Preview
+
+![Fill-It: Smart Container Fullfillment Platform Overview](4.png)
 
 ## Tech Stack
 
