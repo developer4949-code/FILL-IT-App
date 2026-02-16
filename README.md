@@ -3,7 +3,7 @@
 Full-stack ride-sharing solution with React Native mobile app and Spring Boot backend API.
 ## 📸 Project Preview
 
-![Fill-It: Smart Container Fullfillment Platform Overview](4.png)
+![Fill-It: Smart Container Fullfillment Platform Overview](Screenshot 2026-02-16 101002.png)
 
 ## Tech Stack
 
